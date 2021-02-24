@@ -2,4 +2,4 @@
 title: "About Me"
 ---
 
-blah blah blah
+I am a senior student studying Statistical & Data Sciences and Education at Smith College. I am also completing my secondary level teaching license. My research and academic interests are related to mathematics education in secondary schools in the United States.
